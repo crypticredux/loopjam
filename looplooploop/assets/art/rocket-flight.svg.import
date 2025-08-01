@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://x3ac8gdkupwf"
-path="res://.godot/imported/rocket-flight.png-95441d9314a8bcfc34ebe0ebe925e1b7.ctex"
+uid="uid://ci18xo8e0vssv"
+path="res://.godot/imported/rocket-flight.svg-ffbed4355feb98d9652c8c50afdc7bc2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/rocket-flight.png"
-dest_files=["res://.godot/imported/rocket-flight.png-95441d9314a8bcfc34ebe0ebe925e1b7.ctex"]
+source_file="res://assets/art/rocket-flight.svg"
+dest_files=["res://.godot/imported/rocket-flight.svg-ffbed4355feb98d9652c8c50afdc7bc2.ctex"]
 
 [params]
 
@@ -32,3 +32,6 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
+svg/scale=1.0
+editor/scale_with_editor_scale=false
+editor/convert_colors_with_editor_theme=false
