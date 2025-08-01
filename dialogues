@@ -1,0 +1,59 @@
+Level.var is whatever is increasing or decrease 
+if >1
+
+Through event.var.description increased level.var
+
+If <1 
+
+Through event.var.description decreased level.var
+And just write unique descriptions that are inserted into quite simple phrases
+For the events
+And when it is pulled it increases or decrease the var the appears at end
+Have a simple event which then unique descriptions are put into and when that event triggers it changes the level var
+
+
+
+Tropical
+event.tran.trop.pos= “You discovered an abandoned ship; the hull has moss overgrown throughout. The hull is rusting on the interior due to the precipitation in the rainforest. While searching through the abandoned ship, you found transponder parts. You now have (totaltransponderpart.var) transponder parts.”
+Barren
+Event.tran.barren.pos= “ “You discovered an abandoned research outpost. The outpost has long been abandoned, with visible signs of wear. The scientific instruments on the interior were still in good condition. You were able to salvage parts for the transponder from the scientific instruments. You now have (total transponder part.var) transponder parts. “ 
+
+Temperate
+Event.tran.barren.pos= “You discovered a rural farm; the farm had an old married couple living there. The farmer had spare transponder parts that he could not put to good use. You were able to barter with him to get the spare transponder parts for a very cheap price. You now have (total transponder part var) transponder parts.”
+
+Volcanic
+Event.tran.barren.pos= “ You visited an abandoned space station that floats above the volcanic surface of the planet. The air reeks of sulfur and smells disgusting. While rummaging through the abandoned space station's cargo hold, you found an intact transponder. You now have (total transponder part . var ) transponder parts.
+
+
+Planet Terrain Types:
+Tropical
+Barren
+Temperate
+Volcanic
+
+Levels on the ship that take parts to level up 
+Transponder:
+Rocket Fuel:
+Rocket Thruster:
+Hull of Ship:
+
+Event Descriptions
+Transponder Parts Found on positive 
+
+Tropical
+event.tran.trop.pos= “You discovered an abandoned ship; the hull has moss overgrown throughout. The hull is rusting on the interior due to the precipitation in the rainforest. While searching through the abandoned ship, you found transponder parts. You now have (totaltransponderpart.var) transponder parts.”
+Barren
+Event.tran.barren.pos= “ “You discovered an abandoned research outpost. The outpost has long been abandoned, with visible signs of wear. The scientific instruments on the interior were still in good condition. You were able to salvage parts for the transponder from the scientific instruments. You now have (total transponder part.var) transponder parts. “ 
+
+Temperate
+Event.tran.barren.pos= “You discovered a rural farm; the farm had an old married couple living there. The farmer had spare transponder parts that he could not put to good use. You were able to barter with him to get the spare transponder parts for a very cheap price. You now have (total transponder part var) transponder parts.”
+
+Volcanic
+Event.tran.barren.pos= “ You visited an abandoned space station that floats above the volcanic surface of the planet. The air reeks of sulfur and smells disgusting. While rummaging through the abandoned space station's cargo hold, you found an intact transponder. You now have (total transponder part . var ) transponder parts.
+
+Transponder Parts Found on negative
+
+Tropical
+event.tran.trop.neg= “While landing on the tropical planet, your transponder hit a tree and was damaged. You had to use transponder parts to repair it back to working order.  You now have (totaltransponderpart.var) transponder parts.” (NOTE IF TRANSPONDER PARTS GO NEGATIVE SUBTRACT A TRANSPONDER LEVEL)
+Barren
+Event.tran.barren.neg= “ After landing on the barren planet's surface, your spaceship was struck by lightning. This was because your transponder was left on during the heavy lightning storms. You had to use transponder parts to repair the transponder's functionality.  You now have (total transponder part.var) transponder parts. “ (NOTE IF TRANSPONDER PARTS GO NEGATIVE SUBTRACT A TRANSPONDER LEVEL)
