@@ -1,0 +1,75 @@
+Overview:
+
+Maybe a kerbal space program type game about a species leaving a planet, but they keep roasting the ones they land on and take its resources? So you make decisions like Yes, your grace type game, figure out something for the rocket or transport with the resources you have, and try to make it to another planet. The new planet has randomized resources, and you left mostly everything behind, so you have to basically build from scratch? Like nanobots that eat everything or something, and the rocket gets drawn with your cursor. Idk gotta figure out scoping to make it doable in ~3ish days
+
+
+transponder dictates what you know about a planet before going there based on level, distance to planet, farther is better, resource gain determines what you can choose, pseudorandom resources on each planet, parts currency, disaster on every planet
+
+Instead of a whole civilization, what about one little dude that runs around on a tiny ass planet to grab the parts, bring it back to his busted rocket, then you control the rocket to fly to the next planet? If you can't make it, you fall back down to the planet you just landed on, or some random one, with planets having some disaster happening. Instead of controlling player movement, you just get the rocket to the next planet, then the dialogue card choices appear for the rocket parts
+
+
+
+Setting:
+
+An intelligent life on a dying planet. "If one survives, we all survive." Set in a distant future, where space travel is normal.
+Dark Forest type of sci-fi, with a single creature carrying his entire species looking for a place to repopulate while scavenging.
+Each planet has some imminent disaster. While traces of other life tend to be common, most have abandoned their home planets.
+
+
+
+Gameplay:
+The player controls a card deck of options to choose from at each planet, determining event paths, resources (parts), etc
+The loop takes place as the player moves on either forcefully by the disaster, or by free will, to the next planet. Rocket
+
+Development methods:
+
+
+
+Objective:
+
+
+
+Graphics:
+
+
+
+Further Notes:
+
+https://madparrot.itch.io/madtalk-example-project
+https://github.com/fbcosentino/godot-madtalk
+https://godotengine.org/asset-library/asset/3968
+https://godotengine.org/asset-library/asset/3132
+https://godotengine.org/asset-library/asset/2971
+https://godotengine.org/asset-library/asset/4154
+https://deep-fold.itch.io/space-background-generator
+https://godotengine.org/asset-library/asset/3552
+
+https://game-icons.net/
+https://craftpix.net/freebies/
+https://www.kenney.nl/assets
+https://opengameart.org/
+
+https://lospec.com/palette-list
+https://www.beepbox.co/
+https://www.pentacom.jp/pentacom/bitfontmaker2/
+https://sfbgames.itch.io/chiptone
+https://fonts.google.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
