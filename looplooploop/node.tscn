@@ -1,0 +1,47 @@
+[gd_scene load_steps=3 format=3 uid="uid://30xmtt1kkk6d"]
+
+[ext_resource type="Script" uid="uid://bins8h278hh2a" path="res://dialogue.gd" id="1_j2q8x"]
+[ext_resource type="Script" uid="uid://bhvx2fvu7waxi" path="res://addons/madtalk/components/ImportExport.gd" id="2_112p8"]
+
+[node name="dialogue" type="Node"]
+script = ExtResource("1_j2q8x")
+
+[node name="MadTalkImportExport" type="Node" parent="."]
+script = ExtResource("2_112p8")
+metadata/_custom_type_script = "uid://bhvx2fvu7waxi"
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Control4" type="Control" parent="CanvasLayer"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Panel" type="Panel" parent="CanvasLayer/Control4"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="CanvasLayer/Control4/Panel"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Control" type="Control" parent="CanvasLayer"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Control3" type="Control" parent="CanvasLayer"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Control2" type="Control" parent="CanvasLayer"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0

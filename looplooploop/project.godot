@@ -14,6 +14,14 @@ config/name="looplooploop"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[autoload]
+
+MadTalkGlobals="*res://addons/madtalk/runtime/MadTalkGlobals.tscn"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/godot_card_layout/plugin.cfg", "res://addons/madtalk/plugin.cfg")
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
