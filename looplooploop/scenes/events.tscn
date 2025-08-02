@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://c28p6nas11y8g"]
+
+[node name="events" type="Area2D"]
+
+[node name="blackhole" type="Node2D" parent="."]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="blackhole"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="blackhole"]
+
+[node name="eruptions" type="Node2D" parent="."]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="eruptions"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="eruptions"]

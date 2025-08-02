@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://phlmhon6uroq"]
+
+[node name="rocket" type="Area2D"]

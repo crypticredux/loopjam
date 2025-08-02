@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://357ihnerlm7v"]
+
+[node name="planets" type="Area2D"]
